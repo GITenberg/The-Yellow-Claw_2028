@@ -1,0 +1,38 @@
+_repo: The-Yellow-Claw_2028
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rohmer, Sax
+    alias: Ward, Arthur Sarsfield
+    birthdate: 1883
+    deathdate: 1959
+    gutenberg_agent_id: '110'
+    url: http://www.gutenberg.org/2009/agents/110
+    wikipedia: http://en.wikipedia.org/wiki/Sax_Rohmer
+description: "For the fictional supervillain of the same name, see Yellow Claw.\n\
+  The Yellow Claw is a 1915 crime novel by Arthur Henry Sarsfield Ward, known better\
+  \ under his pseudonym, Sax Rohmer.\nThe story features Gaston Max, a Parisian criminal\
+  \ investigator and mastery of disguise, and his battle with Mr. King, a master criminal\
+  \ similar to Rohmer's earlier Fu Manchu character.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Crime Fiction
+gutenberg_issued: '2006-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2028'
+  wikidata: Q3793730
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Murder -- Fiction'
+- !lcsh 'London (England) -- Social life and customs -- Fiction'
+- !lcsh 'Hoodlums -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Yellow Claw
+url: http://www.gutenberg.org/ebooks/2028
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Yellow_Claw
+- https://it.wikipedia.org/wiki/Il_delitto_di_mezzanotte
