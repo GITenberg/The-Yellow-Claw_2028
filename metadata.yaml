@@ -1,5 +1,8 @@
 _repo: The-Yellow-Claw_2028
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rohmer, Sax
@@ -14,6 +17,8 @@ description: "For the fictional supervillain of the same name, see Yellow Claw.\
   \ under his pseudonym, Sax Rohmer.\nThe story features Gaston Max, a Parisian criminal\
   \ investigator and mastery of disguise, and his battle with Mr. King, a master criminal\
   \ similar to Rohmer's earlier Fu Manchu character.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2028#The-Yellow-Claw
 gutenberg_bookshelf: Crime Fiction
 gutenberg_issued: '2006-05-14'
 gutenberg_type: Text
